@@ -45,10 +45,9 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Let's get to know each other
-
+### 🤝🏻 &nbsp;Let's collaborate!
 <p align="center">
-<a href="https://www.linkedin.com/in/v-pelaez"><img src="https://img.shields.io/badge/-V._Pel%C3%A1ez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vpelaez@proton.me"><img src="https://img.shields.io/badge/-vpelaez@proton.me-8B89CC?style=flat&logo=ProtonMail&logoColor=white"/></a>
-<a href="https://x.com/khvrem"><img src="https://img.shields.io/badge/-@Khvrem-black?style=flat&logo=X&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/v-pelaez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")/></a>
+<a href="mailto:vpelaez@proton.me"><img src="https://img.shields.io/badge/-vpelaez@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white")/></a>
+<a href="https://x.com/khvrem"><img src="https://img.shields.io/badge/@khvrem-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
