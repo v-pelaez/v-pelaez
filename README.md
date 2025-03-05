@@ -5,7 +5,6 @@
 
 
 🎓 &nbsp;I'm currently studying Web Application Development.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 🎥 &nbsp;I'm a professional in the audiovisual sector with 10+ years of experience.\
 🎨 &nbsp;Frontend development is my strength; I also have a background in design. \
 🐲 &nbsp;In my free time, I enjoy playing as a Dungeon Master in role-playing games, writing and designing adventures and maps. \
