@@ -4,12 +4,12 @@
 
 
 
-🎓 &nbsp;I'm currently studying Web Application Development.\
-🎥 &nbsp;I'm a professional in the audiovisual sector with 10+ years of experience.\
-🎨 &nbsp;Frontend development is my strength; I also have a background in design. \
+🎓 &nbsp;I'm currently studying **Web Application Development**.\
+🎥 &nbsp;I'm a professional in the **audiovisual sector with 10+** years of experience.\
+🎨 &nbsp;**Frontend development is my strength**; I also have a background in design. \
 🐲 &nbsp;In my free time, I enjoy playing as a Dungeon Master in role-playing games, writing and designing adventures and maps. \
 🗨️ &nbsp;Feel free to contact me to discuss your project or just have an interesting conversation. \
-💼 &nbsp;Please check out my [Linkedin](https://www.linkedin.com/in/v-pelaez) for more details about me. I'm open to feedback and suggestions!
+💼 &nbsp;Please check out my **[Linkedin](https://www.linkedin.com/in/v-pelaez)** for more details about me. I'm open to feedback and suggestions!
 
 
 
@@ -36,7 +36,7 @@
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
+<h3 align="center"> ⚙️ &nbsp;GitHub Analytics </h2>
 
 <p align="center">
 <a href="https://github.com/v-pelaez/">
@@ -45,7 +45,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Let's collaborate!
+<h3 align="center">🤝🏻 &nbsp;Let's collaborate!</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/v-pelaez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")/></a>
 <a href="mailto:vpelaez@proton.me"><img src="https://img.shields.io/badge/-vpelaez@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white")/></a>
