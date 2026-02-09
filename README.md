@@ -66,6 +66,6 @@
 <h3 align="center">🤝🏻 &nbsp;Let's collaborate!</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/v-pelaez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")/></a>
-<a href="mailto:vpelaez@proton.me"><img src="https://img.shields.io/badge/-vpelaez@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white")/></a>
+<a href="mailto:victor.pelaez@proton.me"><img src="https://img.shields.io/badge/-victor.pelaez@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white")/></a>
 <a href="https://x.com/khvrem"><img src="https://img.shields.io/badge/@khvrem-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 </p>
