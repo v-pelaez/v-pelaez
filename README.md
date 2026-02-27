@@ -1,71 +1,57 @@
-## Hi there, I'm V. Peláez 👋
-*Style and functionality are compatible* 
-### 👨🏻‍💻 &nbsp;About Me
+<div align="center">
+  <h1>Hi there, I'm V. Peláez 👋</h1>
+  
+  <h3>Creative Developer | Narrative Architect</h3>
+  
+  <p><i>"Style and functionality are compatible"</i></p>
+  
+  <br />
 
+<p>
+  <a href="https://www.linkedin.com/in/v-pelaez">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:victor.pelaez@proton.me">
+    <img src="https://img.shields.io/badge/Contact%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Me" />
+  </a>
+</p>
+</div>
 
+---
 
-🎓 &nbsp;I'm currently studying **Web Application Development**.\
-🎥 &nbsp;I'm a professional in the **audiovisual sector with 10+** years of experience.\
-🎨 &nbsp;**Frontend development is my strength**; I also have a background in design. \
-🐲 &nbsp;In my free time, I enjoy playing as a Dungeon Master in role-playing games, writing and designing adventures and maps. \
-🗨️ &nbsp;Feel free to contact me to discuss your project or just have an interesting conversation. \
-💼 &nbsp;Please check out my **[Linkedin](https://www.linkedin.com/in/v-pelaez)** for more details about me. I'm open to feedback and suggestions!
+### 👨🏻‍💻 About Me
 
+* 🎓 **2nd year DAW student** (Web Application Development).
+* 🚀 Building scalable apps with **TS, NestJS & Vue**. Exploring **Docker & PostgreSQL**.
+* 🎥 **10+ years in Audiovisual Media**. Visual storyteller merging filmmaking aesthetics with UI/UX.
+* 🐲 **Dungeon Master**. Narrative designer applying agile leadership and logic to code.
 
+---
 
-<img alt="Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU5Z3d1YjI5aGx2ZXBvOWt1aG9veHp4NzNkZG56dnN5MnA1ZncxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="250px"/>
+### 🚀 Featured Projects
 
-### 🛠 &nbsp;Tech Stack
+* 🐉 **Chronicle Lore Tool (In Progress)**: Full-stack TTRPG world-building platform (**NestJS, Vue, PostgreSQL**).
+* 🧗 **[OasisClimb UI](https://github.com/v-pelaez/OasisClimb_MockUp)**: Responsive, high-fidelity frontend mockup for a climbing community (**Vue 3**).
+* 🗨️ **[IT_Talk Platform](https://github.com/v-pelaez/IT_Talk)**: Community social engine featuring clean PHP architecture (**Laravel**).
+* 📋 **[Task Manager](https://github.com/v-pelaez/ToDoList-Django_Python)**: Productivity tool with secure authentication and CRUD operations (**Python/Django**).
 
-#### Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+---
 
-#### Frameworks & Backend
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-#### Frontend Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Phaser](https://img.shields.io/badge/phaser-%23465c9c.svg?style=for-the-badge&logo=phaser&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### Design & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/indesign-49021F.svg?style=for-the-badge&logo=adobeindesign&logoColor=white)
-![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-
-
-
-
-
-
-<h3 align="center"> ⚙️ &nbsp;GitHub Analytics </h2>
+### 🛠 Tech Stack
 
 <p align="center">
-<a href="https://github.com/v-pelaez/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-pelaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="300"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v-pelaez&layout=compact&langs_count=8&theme=algolia"  width="300"/>
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nestjs,vue,postgres,mongodb,docker,java,php,python,laravel,django,html,css,tailwind,ps,ai&theme=dark&perline=8" />
+  </a>
 </p>
 
-<h3 align="center">🤝🏻 &nbsp;Let's collaborate!</h2>
+---
+
+### ⚙️ GitHub Analytics
+
 <p align="center">
-<a href="https://www.linkedin.com/in/v-pelaez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")/></a>
-<a href="mailto:victor.pelaez@proton.me"><img src="https://img.shields.io/badge/-victor.pelaez@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white")/></a>
-<a href="https://x.com/khvrem"><img src="https://img.shields.io/badge/@khvrem-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://github.com/v-pelaez/">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-pelaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v-pelaez&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  </a>
 </p>
