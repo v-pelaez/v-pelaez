@@ -40,7 +40,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/v-pelaez">
     <img src="https://skillicons.dev/icons?i=ts,nestjs,vue,postgres,mongodb,docker,java,php,python,laravel,django,html,css,tailwind,ps,ai&theme=dark&perline=8" />
   </a>
 </p>
