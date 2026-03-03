@@ -1,9 +1,10 @@
 <div align="center">
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_darkmode.png">
-    <img alt="header" src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_lightmode.png">
-  </picture>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_lightmode.png#gh-light-mode-only" alt="Header Light">
+  
+  <img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_darkmode.png#gh-dark-mode-only" alt="Header Dark">
+</p>
 </p>
 <p>
   <a href="https://www.linkedin.com/in/v-pelaez">
