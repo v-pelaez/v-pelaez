@@ -1,12 +1,9 @@
 <div align="center">
-  <h1>Hi there, I'm V. Peláez 👋</h1>
-  
-  <h3>Creative Developer | Narrative Architect</h3>
-  
-  <p><i>"Style and functionality are compatible"</i></p>
-  
-  <br />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_darkmode.png?raw=true">
+    
+    <img alt="header" src="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_lightmode.png?raw=true">
+  </picture>
 <p>
   <a href="https://www.linkedin.com/in/v-pelaez">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
