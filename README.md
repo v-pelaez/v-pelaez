@@ -1,9 +1,10 @@
 <div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_darkmode.png?raw=true">
-    
-  <img alt="header" src="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_lightmode.png?raw=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_darkmode.png">
+    <img alt="header" src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_lightmode.png">
   </picture>
+</p>
 <p>
   <a href="https://www.linkedin.com/in/v-pelaez">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
