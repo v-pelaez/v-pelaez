@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_darkmode.png#gh-dark-mode-only" alt="Header Dark" />
-<img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme_lightmode.png#gh-light-mode-only" alt="Header Light" />
+<img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme.png" alt="Hello, I'm Victor. Creative developer and Narrative Architect " />
 </div>
 <div align="center">
 <p>
