@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_darkmode.png?raw=true">
     
-    <img alt="header" src="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_lightmode.png?raw=true">
+  <img alt="header" src="https://github.com/v-pelaez/v-pelaez/blob/main/header_readme_lightmode.png?raw=true">
   </picture>
 <p>
   <a href="https://www.linkedin.com/in/v-pelaez">
