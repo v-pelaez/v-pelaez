@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/v-pelaez/">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-pelaez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v-pelaez&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-pelaez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=282828&title_color=458588&icon_color=689D6A&text_color=ebdbb2" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v-pelaez&layout=compact&langs_count=8&hide_border=true&bg_color=282828&title_color=458588&text_color=ebdbb2" />
   </a>
 </p>
