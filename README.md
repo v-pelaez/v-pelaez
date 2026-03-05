@@ -26,7 +26,7 @@
 ### 🚀 Featured Projects
 
 * 🐉 **Chronicle Lore Tool (In Progress)**: Full-stack TTRPG world-building platform (**NestJS, Vue, PostgreSQL**).
-* 🧗 **[OasisClimb UI](https://github.com/v-pelaez/OasisClimb_MockUp)**: Responsive, high-fidelity frontend mockup for a climbing community (**Vue 3**).
+* 🧗 **[OasisClimb UI](https://v-pelaez.github.io/OasisClimb_MockUp/)**: Responsive, high-fidelity frontend mockup for a climbing community (**Vue 3**).
 * 🗨️ **[IT_Talk Platform](https://github.com/v-pelaez/IT_Talk)**: Community social engine featuring clean PHP architecture (**Laravel**).
 * 📋 **[Task Manager](https://github.com/v-pelaez/ToDoList-Django_Python)**: Productivity tool with secure authentication and CRUD operations (**Python/Django**).
 
