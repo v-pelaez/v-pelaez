@@ -16,7 +16,8 @@
 
 ### 👨🏻‍💻 About Me
 
-* 🎓 **2nd year DAW student** (Web Application Development).
+* 🎓 **Web Application Development** Student (2nd Year).
+* ⚙️ **Appian** Bootcamp @ Stemdo | Mastering Enterprise **Low-Code solutions**.
 * 🚀 Building scalable apps with **TS, NestJS & Vue**. Exploring **Docker & PostgreSQL**.
 * 🎥 **10+ years in Audiovisual Media**. Visual storyteller merging filmmaking aesthetics with UI/UX.
 * 🐲 **Dungeon Master**. Narrative designer applying agile leadership and logic to code.
