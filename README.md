@@ -16,7 +16,7 @@
 
 ### 👨🏻‍💻 About Me
 
-* 🎓 **Web Application Development** Student (2nd Year).
+* 🎓 Higher Technician in **Web Application Development**.
 * ⚙️ **Appian** Bootcamp @ Stemdo | Mastering Enterprise **Low-Code solutions**.
 * 🚀 Building scalable apps with **TS, NestJS & Vue**. Exploring **Docker & PostgreSQL**.
 * 🎥 **10+ years in Audiovisual Media**. Visual storyteller merging filmmaking aesthetics with UI/UX.
