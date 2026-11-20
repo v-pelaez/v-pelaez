@@ -40,7 +40,7 @@ Full-Stack Developer focused on the **TypeScript** ecosystem (**Vue.js, Nuxt, Ne
   Corporate website in production for a real business, focused on static prerendering, performance, responsive design, and technical SEO.  
   `Nuxt` · `Vue.js` · `TypeScript` · `Tailwind CSS` · `Cloudflare`
 
-- **[OasisClimb UI](https://v-pelaez.github.io/OasisClimb_MockUp/)** ([Repository](https://github.com/v-pelaez/OasisClimb_MockUp))  
+- **[OasisClimb UI](https://v-pelaez.github.io/oasis-climb-ui/)** ([Repository](https://github.com/v-pelaez/oasis-climb-ui))  
   Responsive frontend web application designed for a climbing community.  
   `Vue 3` · `Frontend UI`
 
