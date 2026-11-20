@@ -58,5 +58,5 @@ Full-Stack Developer focused on the **TypeScript** ecosystem (**Vue.js, Nuxt, Ne
 </p>
 
 <p align="center">
-  <sub><strong>UI &amp; Tooling:</strong> PrimeVue · Forgejo &nbsp;|&nbsp; <strong>Also worked with:</strong> PHP (Laravel) · Python (Django) · Java</sub>
+  <sub><strong>UI &amp; Tooling:</strong> PrimeVue · Forgejo &nbsp;|&nbsp; <strong>Also worked with:</strong> PHP (Laravel) · Python (Django) · Java · Appian</sub>
 </p>
