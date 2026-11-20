@@ -1,53 +1,62 @@
+<!-- Cabecera gráfica: actualizar el subtítulo del PNG a "Full-Stack TypeScript Developer | Vue.js · Nuxt · NestJS" -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme.png" alt="Hello, I'm Victor. Creative developer and Narrative Architect " />
-</div>
-<div align="center">
-<p>
-  <a href="https://www.linkedin.com/in/v-pelaez">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:victor.pelaez@proton.me">
-    <img src="https://img.shields.io/badge/Contact%20Me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact Me" />
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/v-pelaez/v-pelaez/main/header_readme.png" alt="Víctor Peláez — Full-Stack TypeScript Developer" />
 </div>
 
----
-
-### 👨🏻‍💻 About Me
-
-* 🎓 Higher Technician in **Web Application Development**.
-* ⚙️ **Appian** Bootcamp @ Stemdo | Mastering Enterprise **Low-Code solutions**.
-* 🚀 Building scalable apps with **TS, NestJS & Vue**. Exploring **Docker & PostgreSQL**.
-* 🎥 **10+ years in Audiovisual Media**. Visual storyteller merging filmmaking aesthetics with UI/UX.
-* 🐲 **Dungeon Master**. Narrative designer applying agile leadership and logic to code.
-
----
-
-### 🚀 Featured Projects
-
-* 🐉 **Compendium (In Progress)**: Full-stack TTRPG world-building platform (**NestJS, Vue, PostgreSQL**).
-* 🧗 **[OasisClimb UI](https://v-pelaez.github.io/OasisClimb_MockUp/)**: Responsive, high-fidelity frontend mockup for a climbing community (**Vue 3**).
-* 🗨️ **[IT_Talk Platform](https://github.com/v-pelaez/IT_Talk)**: Community social engine featuring clean PHP architecture (**Laravel**).
-* 📋 **[Task Manager](https://github.com/v-pelaez/ToDoList-Django_Python)**: Productivity tool with secure authentication and CRUD operations (**Python/Django**).
+<div align="center">
+  <p>
+    <a href="https://www.linkedin.com/in/v-pelaez/">
+      <img src="https://img.shields.io/badge/LinkedIn-0B6E66?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:victor.pelaez@proton.me">
+      <img src="https://img.shields.io/badge/Email-111414?style=for-the-badge&logo=protonmail&logoColor=white" alt="Contact via Email" />
+    </a>
+    <a href="https://hermanospelaez.com/">
+      <img src="https://img.shields.io/badge/Live_Work-159489?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Production Site" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🛠 Tech Stack
+### About Me
 
+Full-Stack Developer focused on the **TypeScript** ecosystem (**Vue.js, Nuxt, NestJS, PostgreSQL & Docker**), backed by **10+ years of experience in audiovisual production and graphic design**.
+
+- **Real-world team experience:** Built a corporate internal training platform at **STEMDO** (Vue, NestJS, PostgreSQL, Docker) under Scrum, co-coordinating a 7-person multidisciplinary team.
+- **Product & UI/UX focus:** Combining visual design criteria with clean frontend architecture to deliver maintainable, responsive interfaces.
+- **Education:** Higher Technician in Web Application Development (DAW — 9.0 avg | Final Project: 9.9).
+- **Location:** Huelva, Spain — open to **remote roles across Spain**.
+
+---
+
+### Featured Projects
+
+- **Compendium** *(In Production · Private Repo · Final Project 9.9/10)*  
+  Full-stack knowledge management platform for TTRPG communities featuring granular character-based visibility permissions, collaborative proposals, and content versioning.  
+  `Vue.js` · `TypeScript` · `NestJS` · `PostgreSQL` · `PrimeVue` · `Tailwind CSS`
+
+- **[Carpintería Artesanal Hermanos Peláez](https://hermanospelaez.com/)** ([Repository](https://github.com/v-pelaez/hnospelaez))  
+  Corporate website in production for a real business, focused on static prerendering, performance, responsive design, and technical SEO.  
+  `Nuxt` · `Vue.js` · `TypeScript` · `Tailwind CSS` · `Cloudflare`
+
+- **[OasisClimb UI](https://v-pelaez.github.io/OasisClimb_MockUp/)** ([Repository](https://github.com/v-pelaez/OasisClimb_MockUp))  
+  Responsive frontend web application designed for a climbing community.  
+  `Vue 3` · `Frontend UI`
+
+- **[RPG-Adventures](https://v-pelaez.github.io/RPG-Adventures/)** ([Repository](https://github.com/v-pelaez/RPG-Adventures))  
+  Frontend web application for tabletop RPG players to browse open campaigns and structure game listings.  
+  `Vue` · `Frontend UI`
+
+---
+
+### Core Tech Stack
+
+<!-- Fila 1: Frontend y despliegue web | Fila 2: Backend, bases de datos e infraestructura -->
 <p align="center">
-  <a href="https://github.com/v-pelaez">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,vue,postgres,mongodb,docker,java,php,python,laravel,django,html,css,tailwind,ps,ai&theme=dark&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,vue,nuxtjs,tailwind,html,css,cloudflare,nestjs,nodejs,postgres,mysql,mongodb,docker,git&theme=dark&perline=7" alt="TypeScript, Vue, Nuxt, Tailwind, HTML, CSS, Cloudflare, NestJS, Node.js, PostgreSQL, MySQL, MongoDB, Docker, Git" />
 </p>
 
----
-
-### ⚙️ GitHub Analytics
-
 <p align="center">
-  <a href="https://github.com/v-pelaez/">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=v-pelaez&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=282828&title_color=458588&icon_color=689D6A&text_color=ebdbb2" />
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=v-pelaez&layout=compact&langs_count=8&hide_border=true&bg_color=282828&title_color=458588&text_color=ebdbb2" />
-  </a>
+  <sub><strong>UI &amp; Tooling:</strong> PrimeVue · Forgejo &nbsp;|&nbsp; <strong>Also worked with:</strong> PHP (Laravel) · Python (Django) · Java</sub>
 </p>
